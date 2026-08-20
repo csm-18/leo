@@ -1,5 +1,5 @@
 # leo
 
-leo is a programming language
+leo is a backend programming language
 
 - filename extension: .leo
